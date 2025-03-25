@@ -1,0 +1,15 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Luishg08/frontend-funerariaDigital
+[submodule "MS-Notificaciones"]
+	path = MS-Notificaciones
+	url = https://github.com/Luishg08/ms-notificaciones-funerariaDigital.git
+[submodule "MS-LógicaDeNegocio"]
+	path = MS-LógicaDeNegocio
+	url = https://github.com/Luishg08/ms-logica-negocio-FunerariaDigital.git
+[submodule "MS-Chat"]
+	path = MS-Chat
+	url = https://github.com/Luishg08/ms-chat-funerariaDigital.git
+[submodule "MS-Seguridad"]
+	path = MS-Seguridad
+	url = https://github.com/Luishg08/ms-seguridad-funerariaDigital.git
